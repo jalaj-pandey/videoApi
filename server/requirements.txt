@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+websockets
+pinecone
+pypdf
+langchain
+sentence_transformers
